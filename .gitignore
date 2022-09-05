@@ -1,6 +1,7 @@
 # pyenv and venv
 pyvenv.cfg
 bin/
+share/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
